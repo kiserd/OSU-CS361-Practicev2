@@ -1,29 +1,24 @@
 {
-  "name": "practice",
+  "name": "OSU-CS361-Practicev2",
   "version": "1.0.0",
-  "description": "practice getting node setup with Heroku",
-  "main": "app.js",
+  "description": "",
+  "main": "practice.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "OSU",
-  "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.13.3",
-    "express": "^4.17.1",
-    "express-handlebars": "^2.0.1",
-    "express-session": "^1.17.1"
-  },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kiserd/OSU-CS361-Practicev2.git"
   },
-  "keywords": [
-    "node"
-  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/kiserd/OSU-CS361-Practicev2/issues"
   },
-  "homepage": "https://github.com/kiserd/OSU-CS361-Practicev2#readme"
+  "homepage": "https://github.com/kiserd/OSU-CS361-Practicev2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0"
+  }
 }
