@@ -26,6 +26,6 @@ app.use(function(err, req, res, next){
   res.render('500');
 });
 
-app.listen(app.get('port'), function(){
-  console.log(`Express started on http://${process.env.HOSTNAME}:${PORT}; press Ctrl-C to terminate.`);
+app.listen(PORT, function(){
+  console.log(`Listening on: ${ PORT }; press Ctrl-C to terminate.`);
 });
