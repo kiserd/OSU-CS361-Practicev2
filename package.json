@@ -12,8 +12,18 @@
     "body-parser": "^1.13.3",
     "express": "^4.17.1",
     "express-handlebars": "^2.0.1",
-    "express-session": "^1.17.1",
-    "express-sessions": "^1.0.6",
-    "mysql": "^2.8.0"
-  }
+    "express-session": "^1.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiserd/OSU-CS361-Practicev2.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "bugs": {
+    "url": "https://github.com/kiserd/OSU-CS361-Practicev2/issues"
+  },
+  "homepage": "https://github.com/kiserd/OSU-CS361-Practicev2#readme"
 }
